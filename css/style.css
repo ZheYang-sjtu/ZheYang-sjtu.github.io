@@ -49,7 +49,7 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 }
 .w3_banner_pos{
 	position:absolute;
-	bottom:0%;
+	top:25%;
 	right:20%;
 }
 .header {
@@ -149,20 +149,20 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 	color:#fff;
 	letter-spacing:2px;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 4em;
+	font-size: 3em;
 }
 .w3agile_banner_info p{
 	color:#CDCDCD;
     text-decoration: none;
 	font-family:"Times New Roman",Georgia,Serif;
-    font-size: 24px;
+    font-size: 20px;
     letter-spacing: 3px;
 }
 .w3agile_banner_info a{
 	color:#CDCDCD;
     text-decoration: underline;
 	font-family:"Times New Roman",Georgia,Serif;
-    font-size: 24px;
+    font-size: 20px;
     letter-spacing: 3px;
 }
 .scroll-down {
@@ -287,7 +287,7 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 }
 .head span{
 	position: absolute;
-    left: 26%;
+    left: 42.5%;
     top: 46%;
     color: #212121;
     font-size: .2em;
